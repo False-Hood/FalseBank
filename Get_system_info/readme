@@ -1,0 +1,4 @@
+//Ubuntu下获取系统信息
+
+make 
+sudo ./a.out
